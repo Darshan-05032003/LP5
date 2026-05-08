@@ -77,3 +77,7 @@ jupyter notebook --no-browser
 # ============================================
 
 jupyter lab --no-browser
+
+
+to start jupyter notebook command : 
+jupyter notebook
